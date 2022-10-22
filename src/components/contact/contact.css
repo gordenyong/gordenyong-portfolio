@@ -1,0 +1,41 @@
+.contact.section {
+    padding-bottom: 6.25rem;
+}
+
+.contact__type {
+    color: var(--title-color);
+}
+
+.contact__container {
+    text-align: center;
+}
+
+.contact__desc {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.contact__title {
+    font-size: var(--h3-font-size);
+    margin-bottom: .5rem;
+}
+
+.contact__social-link {
+    font-size: 1.7rem;
+    color: var(--title-color);
+}
+
+.contact__socials {
+    margin: 0 auto;
+    padding: 15px;
+}
+
+.contact__social-link {
+    color: var(--title-color);
+    font-size: 1.3rem;
+    transition: .3s;
+}
+
+.contact__social-link:hover {
+    color: grey;
+}
